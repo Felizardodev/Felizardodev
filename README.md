@@ -4,7 +4,7 @@ I´m Full Stack Developer student.
 
 ---
 ## My Resume
-I have a degree in Computer Science and am currently estou buscando um estágio. My goal is to be a full stack web developer.
+
 
 ---
 ## Portfolio
