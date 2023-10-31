@@ -1,6 +1,6 @@
 # ABOUT-ME
 Hi, my name is Suelen Felizardo 👋
-I´m Full Stack Developer student.
+I´m Back End Developer student.
 
 ---
 ## My Resume
